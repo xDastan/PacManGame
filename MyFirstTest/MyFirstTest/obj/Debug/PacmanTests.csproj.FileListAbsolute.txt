@@ -1,0 +1,7 @@
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\bin\Debug\PacmanTests.dll
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\bin\Debug\PacmanTests.pdb
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\bin\Debug\Pacman.dll
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\bin\Debug\Pacman.pdb
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.csprojResolveAssemblyReference.cache
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.dll
+c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.pdb
