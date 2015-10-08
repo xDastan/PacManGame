@@ -3,3 +3,8 @@ c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\Pacman\bin\Debu
 c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\Pacman\obj\Debug\Pacman.dll
 c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\Pacman\obj\Debug\Pacman.pdb
 C:\Users\senji\documents\visual studio 2013\Projects\MyFirstTest\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\Pacman\bin\Debug\Pacman.dll
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\Pacman\bin\Debug\Pacman.pdb
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\Pacman\obj\Debug\Pacman.dll
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\Pacman\obj\Debug\Pacman.pdb

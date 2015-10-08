@@ -31,6 +31,20 @@ namespace PacmanTests
             AssertPlayerPositionIs(new Point(11, 20));
         }
 
+        [TestMethod]
+        public void GameCanMovePlayerUp()
+        {
+            game.MovePlayer(Direction.Up);
+            AssertPlayerPositionIs(new Point(10, 19));
+        }
+
+        [TestMethod]
+        public void GameCanMovePlayerDown()
+        {
+            game.MovePlayer(Direction.Down);
+            AssertPlayerPositionIs(new Point(10, 21));
+        }
+
         private void AssertPlayerPositionIs(Point expectedPosition)
         {
             var actualPosition = game.GetPlayerPosition();

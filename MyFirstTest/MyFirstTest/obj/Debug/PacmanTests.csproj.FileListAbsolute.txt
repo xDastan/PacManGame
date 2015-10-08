@@ -5,3 +5,10 @@ c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\bin
 c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.csprojResolveAssemblyReference.cache
 c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.dll
 c:\users\senji\documents\visual studio 2013\Projects\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.pdb
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\bin\Debug\PacmanTests.dll
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\bin\Debug\PacmanTests.pdb
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\bin\Debug\Pacman.dll
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\bin\Debug\Pacman.pdb
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.dll
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.pdb
+C:\Users\senji\Documents\GitHub\PacManGame\MyFirstTest\MyFirstTest\obj\Debug\PacmanTests.csprojResolveAssemblyReference.cache
